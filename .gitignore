@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Service-account key files — never commit credentials
+service-account*.json
+*-sa-key.json
+*.pem
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
