@@ -19,7 +19,7 @@ cd gcp-sa-key-auditor
 pip install -r requirements.txt
 ```
 
-Requires Python 3.9+.
+Requires Python 3.10+.
 
 ## Authenticate
 
