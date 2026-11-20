@@ -1,5 +1,7 @@
 # GCP Service-Account Key Auditor
 
+[![CI](https://github.com/mmorales170561/gcp-sa-key-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/mmorales170561/gcp-sa-key-auditor/actions/workflows/ci.yml)
+
 Finds Google Cloud service-account keys older than a threshold (default 90 days)
 across a whole project — the stale keys most likely to be sitting in someone's
 downloads folder, one leak away from a breach.
